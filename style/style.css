@@ -1,5 +1,5 @@
 .section1 {
-    background-image: url(../assets/banner-bk.jpg);
+    background-image: url(./assets/banner-bk.jpg);
     height: 70vh;
     background-position-x: center;
 
@@ -246,7 +246,7 @@ span {
 }
 
 .sectionfinal {
-    background-image: url(../assets/contact-bk.jpg);
+    background-image: url(./assets/contact-bk.jpg);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
